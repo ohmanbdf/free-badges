@@ -10,4 +10,7 @@ For Quickdraw:
 3. Done!
 For YOLO:
 1. Fork this repo
-2. Invite me as
+2. Invite me as collaborator
+3. Once I accept the request, create a pull request and add me as reviewer
+4. Merge the request
+5. Done!
